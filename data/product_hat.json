@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "name": "NÓN KÊT CẶP ENY 3 MÀU",
+    "size": [
+
+    ],
+    "quantity": "100",
+    "info": [
+      "Với chất lượng cao cấp tạo nên cảm giác thoải mái khi đội.",
+      "Bạn sẽ cảm thấy tự tin hơn khi ra đường"
+    ],
+    "detail": [
+      "Xuất xứ : Việt Nam",
+      "Chất liệu : chất liệu tổng hợp, da tổng hợp .....",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "blue",
+      "white"
+    ],
+    "date": "2016-06-09",
+    "cost": 100,
+    "type": "hat",
+    "image": [
+      "images/hat/N1_1.png",
+      "images/hat/N1_2.png",
+      "images/hat/N1_3.png"
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "NÓN PHỐI DA SPORT",
+    "size": [
+
+    ],
+    "quantity": "25",
+    "info": [
+      "Chất liệu dép dòng EVA cao cấp",
+      "Được thiết kế theo form chuẩn châu âu"
+    ],
+    "detail": [
+      "Xuất xứ : China",
+      "Chất liệu : da bò, vải, chất liệu tổng hợp, da tổng hợp .....",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "blue",
+      "black"
+    ],
+    "date": "2016-02-09",
+    "cost": 75,
+    "type": "hat",
+    "image": [
+      "images/hat/N2_1.jpg",
+      "images/hat/N2_2.jpg",
+      "images/hat/N2_3.jpg",
+      "images/hat/N2_4.jpg"
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "NÓN LƯỠI TRAI ADIDAS",
+    "size": [
+
+    ],
+    "quantity": "50",
+    "info": [
+      "Chất liệu dép dòng ADIDAS, HERMES cao cấp",
+      "Được thiết kế theo form chuẩn châu mỹ",
+      "Thích hợp cho đi chơi mùa hè"
+    ],
+    "detail": [
+      "Chất liệu tổng hợp",
+      "Kiểu dáng: thời trang",
+      "Phong cách: trẻ trung",
+      "Nơi sản xuất: Singapore",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "white",
+      "black"
+    ],
+    "date": "2016-06-10",
+    "cost": 20,
+    "type": "hat",
+    "image": [
+      "images/hat/N3_1.jpg",
+      "images/hat/N3_2.jpg",
+      "images/hat/N3_3.jpg"
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "NÓN LƯỠI TRAI NIKE",
+    "size": [
+
+    ],
+    "quantity": "69",
+    "info": [
+      "Nón kiểu dáng trẻ trung lịch sự",
+      "Chất liệu da mềm đội rất ấm đầu"
+    ],
+    "detail": [
+      "Nón được sản xuất tại Việt Nam",
+      "Chất liệu: vải cao cấp",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "brown"
+    ],
+    "date": "2016-06-07",
+    "cost": 30,
+    "type": "hat",
+    "image": [
+      "images/hat/N4_1.jpg",
+      "images/hat/N4_2.jpg",
+      "images/hat/N4_3.jpg"
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "NÓN KAKI MCD",
+    "size": [
+
+    ],
+    "quantity": "55",
+    "info": [
+      "Nón kiểu dáng trẻ trung lịch sự",
+      "Chất liệu da mềm đội rất ấm đầu"
+    ],
+    "detail": [
+      "Nón được sản xuất tại Việt Nam",
+      "Chất liệu: vải kaki",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "black",
+      "brown"
+    ],
+    "date": "2016-06-04",
+    "cost": 40,
+    "type": "hat",
+    "image": [
+      "images/hat/N5_1.jpg",
+      "images/hat/N5_2.jpg",
+      "images/hat/N5_3.jpg"
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "NÓN TRƠN HỌA TIẾT",
+    "size": [
+
+    ],
+    "quantity": "77",
+    "info": [
+      "Kiểu dáng trẻ trung lịch sự"
+    ],
+    "detail": [
+      "Chất liệu da mềm ﻿cao cấp màu nâu rất nổi bật, đội rất ấm đầu",
+      "Nón được sản xuất tại Việt Nam",
+      "Sản phẩm được bảo hành 6 tháng từ nhà sản xuất",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "black"
+    ],
+    "date": "2016-06-03",
+    "cost": 50,
+    "type": "hat",
+    "image": [
+      "images/hat/N6_1.jpg",
+      "images/hat/N6_2.jpg",
+      "images/hat/N6_3.jpg"
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "NÓN KẾT THỜI TRANG PL",
+    "size": [
+
+    ],
+    "quantity": "22",
+    "info": [
+      "Chất liệu dép dòng EVA cao cấp",
+      "Thiết kế theo form chuẩn châu âu"
+    ],
+    "detail": [
+      "Chất liệu da mềm ﻿cao cấp màu xanh rất nổi bật, đội rất ấm đầu",
+      "Nón được sản xuất tại Hàn Quốc",
+      "Sản phẩm được bảo hành 6 tháng từ nhà sản xuất",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "blue",
+      "red"
+    ],
+    "date": "2016-03-03",
+    "cost": 80,
+    "type": "hat",
+    "image": [
+      "images/hat/N7_1.jpg",
+      "images/hat/N7_2.jpg",
+      "images/hat/N7_3.jpg"
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "DÉP QUAI NGANG HUGO BOSS",
+    "size": [
+
+    ],"quantity": "2",
+    "info": [
+      "Không ngại đi nước với lớp keo đế càng đi càng bền.",
+      "Kiểu dáng cá tính, với đế trắng nổi bật. Bạn luôn là người SÁNG NHẤT trong nhóm từ đôi chân của bạn.",
+      "Đôi dép có thể mang để tham gia đi chơi, du lịch,... rất sang trọng"
+    ],
+    "detail": [
+      "Quai dép làm bằng nỉ lót da cao cấp. Đế nhựa PPR chống mòn và trơn trượt hiệu quả.",
+      "Chất liệu nỉ bền chắc, thoải mái đi lại không lo gì cả",
+      "Đôi dép HUGO BOSS đình đám đầy cá tính với quai dù chắc chắn được bọc thêm 1 lớp da bóng trên bề mặt.",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "red"
+    ],
+    "date": "2016-11-10",
+    "cost": 55,
+    "type": "hat",
+    "image": [
+      "images/hat/N8_1.jpg",
+      "images/hat/N8_2.jpg",
+      "images/hat/N8_3.jpg"
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "NÓN RỘNG VÀNH",
+    "size": [
+
+    ],
+    "quantity": "44",
+    "info": [
+      "Nón mũ rộng vành nữ chỉ thảo, phong cách hoang dại ấn tượng",
+      "Kiểu dáng trẻ trung, thời trang, đang được ưa chuộng nhất hiện nay",
+      "Màu đỏ cá tính, năng động giúp bạn luôn nổi bật mọi lúc mọi nơi",
+      "Nón có thể đội để tham gia đi chơi, du lịch,... rất sang trọng"
+    ],
+    "detail": [
+      "Xuất xứ: Pháp",
+      "Kích thước: vòng đầu 19cm, độ sâu: 13 cm, phần lưỡi trai: 7cm",
+      "Trọng lượng: 108gr"
+    ],
+    "color": [
+      "red",
+      "black"
+    ],
+    "date": "2016-12-12",
+    "cost": 90,
+    "type": "hat",
+    "image": [
+      "images/hat/N9_1.jpg",
+      "images/hat/N9_2.jpg",
+      "images/hat/N9_3.jpg"
+    ]
+  }
+]

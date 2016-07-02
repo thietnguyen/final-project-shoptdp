@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "name": "DÉP XỎ NGÓN EVEREST",
+    "size": [
+      "39", "40", "41", "42", "43", "44"
+    ],
+    "quantity": "100",
+    "info": [
+      "Với chất lượng cao cấp tạo nên cảm giác thoải mái khi đi lại.",
+      "Bạn sẽ cảm thấy tự tin hơn trong giao tiếp"
+    ],
+    "detail": [
+      "Xuất xứ : Việt Nam",
+      "Chất liệu : da bò, vải, chất liệu tổng hợp, da tổng hợp ....."
+    ],
+    "color": [
+      "blue",
+      "white"
+    ],
+    "date": "2016-06-09",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D1_1.jpg",
+      "images/sandal/D1_2.jpg",
+      "images/sandal/D1_3.jpg"
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "DÉP NAM NIKE",
+    "size": [
+      "39",
+      "40"
+    ],
+    "quantity": "25",
+    "info": [
+      "Chất liệu dép dòng EVA cao cấp",
+      "Đế dép đc đúc theo form chuẩn châu âu"
+    ],
+    "detail": [
+      "Xuất xứ : China",
+      "Chất liệu : da bò, vải, chất liệu tổng hợp, da tổng hợp ....."
+    ],
+    "color": [
+      "blue",
+      "black"
+    ],
+    "date": "2016-02-09",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D2_1.jpg",
+      "images/sandal/D2_2.jpg",
+      "images/sandal/D2_3.jpg"
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "DÉP ADIDAS,HERMES 2016",
+    "size": [
+      "40",
+      "41",
+      "42"
+    ],
+    "quantity": "50",
+    "info": [
+      "Dép quai ngang, quai chéo",
+      "Chất liệu dép dòng ADIDAS, HERMES cao cấp",
+      "Đế dép đc đúc theo form chuẩn châu mỹ",
+      "Thích hợp cho đi chơi mùa hè"
+    ],
+    "detail": [
+      "Chất liệu dép: Caosu",
+      "Chât liêu đế dép: Xốp",
+      "Kiểu dáng: Đế bằng",
+      "Phong cách: trẻ trung",
+      "Nơi sản xuất: Singapore"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "white",
+      "black"
+    ],
+    "date": "2016-06-10",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D3_1.jpg",
+      "images/sandal/D3_2.jpg",
+      "images/sandal/D3_3.jpg",
+      "images/sandal/D3_4.jpg"
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "DÉP SANDAL SUMMER 2016",
+    "size": [
+      "38",
+      "39"
+    ],
+    "quantity": "69",
+    "info": [
+      "Dép xăng đan kiểu dáng trẻ trung lịch sự",
+      "Chất liệu da mềm , quai đan ngang đi rất ôm chân",
+      "Đế bằng chất liệu kếp dẻo vừa mềm và rất êm chân"
+    ],
+    "detail": [
+      "Dép được sản xuất tại Việt Nam",
+      "Chất liệu: da bò"
+    ],
+    "color": [
+      "brown"
+    ],
+    "date": "2016-06-07",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D4_1.jpg",
+      "images/sandal/D4_2.jpg",
+      "images/sandal/D4_3.jpg"
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "DÉP SANDAL AUTUMN 2016",
+    "size": [
+      "40",
+      "41"
+    ],
+    "quantity": "55",
+    "info": [
+      "Dép xăng đan kiểu dáng trẻ trung lịch sự",
+      "Chất liệu da mềm , quai đan ngang đi rất ôm chân",
+      "Đế bằng chất liệu kếp dẻo vừa mềm và rất êm chân"
+    ],
+    "detail": [
+      "Dép được sản xuất tại Việt Nam",
+      "Chất liệu: da bò"
+    ],
+    "color": [
+      "black",
+      "brown"
+    ],
+    "date": "2016-06-04",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D5_1.jpg",
+      "images/sandal/D5_2.jpg",
+      "images/sandal/D5_3.jpg"
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "DÉP SANDAL DR. MARTENS",
+    "size": [
+      "38",
+      "39",
+      "40"
+    ],
+    "quantity": "77",
+    "info": [
+      "Xăng đan kiểu dáng trẻ trung lịch sự"
+    ],
+    "detail": [
+      "Chất liệu da mềm ﻿cao cấp màu nâu rất nổi bật, quai đan ngang đi rất ôm chân",
+      "Đế bằng chất liệu kếp dẻo vừa mềm và rất êm chân",
+      "Dép được sản xuất tại Việt Nam",
+      "Sản phẩm được bảo hành 6 tháng từ nhà sản xuất"
+    ],
+    "color": [
+      "black"
+    ],
+    "date": "2016-06-03",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D6_1.jpg",
+      "images/sandal/D6_2.jpg",
+      "images/sandal/D6_3.jpg"
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "DÉP QUAI CHÉO CONVERSE",
+    "size": [
+      "40",
+      "41"
+    ],
+    "quantity": "22",
+    "info": [
+      "Chất liệu dép dòng EVA cao cấp",
+      "Đế dép đc đúc theo form chuẩn châu âu"
+    ],
+    "detail": [
+      "Chất liệu da mềm ﻿cao cấp màu xanh rất nổi bật, quai đan chéo đi rất ôm chân",
+      "Đế bằng chất liệu kếp dẻo vừa mềm và rất êm chân",
+      "Dép được sản xuất tại Hàn Quốc",
+      "Sản phẩm được bảo hành 6 tháng từ nhà sản xuất"
+    ],
+    "color": [
+      "blue",
+      "red"
+    ],
+    "date": "2016-03-03",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D7_1.jpg",
+      "images/sandal/D7_2.jpg",
+      "images/sandal/D7_3.jpg"
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "DÉP QUAI NGANG HUGO BOSS",
+    "size": [
+      "37",
+      "38"
+    ],
+    "quantity": "2",
+    "info": [
+      "Không ngại đi nước với lớp keo đế càng đi càng bền.",
+      "Kiểu dáng cá tính, với đế trắng nổi bật. Bạn luôn là người SÁNG NHẤT trong nhóm từ đôi chân của bạn.",
+      "Đôi dép có thể mang để tham gia đi chơi, du lịch,... rất sang trọng"
+    ],
+    "detail": [
+      "Quai dép làm bằng nỉ lót da cao cấp. Đế nhựa PPR chống mòn và trơn trượt hiệu quả.",
+      "Chất liệu nỉ bền chắc, thoải mái đi lại không lo gì cả",
+      "Đôi dép HUGO BOSS đình đám đầy cá tính với quai dù chắc chắn được bọc thêm 1 lớp da bóng trên bề mặt."
+    ],
+    "color": [
+      "red"
+    ],
+    "date": "2016-11-10",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D8_1.jpg",
+      "images/sandal/D8_2.jpg",
+      "images/sandal/D8_3.jpg"
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "DÉP QUAI NGANG ADIDAS",
+    "size": [
+      "42",
+      "43",
+      "44"
+    ],
+    "quantity": "44",
+    "info": [
+      "Kiểu dáng trẻ trung, thời trang, đang được ưa chuộng nhất hiện nay",
+      "Màu đỏ cá tính, năng động giúp bạn luôn nổi bật mọi lúc mọi nơi",
+      "Đôi dép có thể mang để tham gia đi chơi, du lịch,... rất sang trọng"
+    ],
+    "detail": [
+      "Xuất xứ: Pháp",
+      "Quai dép làm bằng da xi chắc chắn. Đế nhựa chống trơn trượt hiệu quả."
+    ],
+    "color": [
+      "red",
+      "black"
+    ],
+    "date": "2016-12-12",
+    "cost": 100,
+    "type": "sandal",
+    "image": [
+      "images/sandal/D9_1.jpg",
+      "images/sandal/D9_2.jpg",
+      "images/sandal/D9_3.jpg"
+    ]
+  }
+]

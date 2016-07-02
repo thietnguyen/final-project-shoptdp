@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "name": "ĐẦM CÔNG CHÚA ANGEL",
+    "size": [
+
+    ],
+    "quantity": "100",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "blue",
+      "white"
+    ],
+    "date": "2016-06-09",
+    "cost": 400,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H1_1.jpg",
+      "images/promdress/H1_2.jpg",
+      "images/promdress/H1_3.jpg"
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "ĐẦM CÔNG CHUA KHU RỪNG CỔ TÍCH",
+    "size": [
+
+    ],
+    "quantity": "25",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "blue",
+      "black"
+    ],
+    "date": "2016-02-09",
+    "cost": 350,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H2_1.jpg",
+      "images/promdress/H2_2.jpg",
+      "images/promdress/H2_3.jpg",
+      "images/promdress/H2_4.jpg"
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "ĐẦM DỰ TIỆC CAO CẤP",
+    "size": [
+
+    ],
+    "quantity": "50",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "white",
+      "black"
+    ],
+    "date": "2016-06-10",
+    "cost": 500,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H3_1.jpg",
+      "images/promdress/H3_2.jpg"
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "ĐẦM DẠ HỘI DÁNG SUÔNG",
+    "size": [
+
+    ],
+    "quantity": "69",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "brown"
+    ],
+    "date": "2016-06-07",
+    "cost": 600,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H4_1.jpg",
+      "images/promdress/H4_2.jpg",
+      "images/promdress/H4_3.jpg"
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "ĐẦM DẠ HỘI DỰ TIỆC MANLA",
+    "size": [
+
+    ],
+    "quantity": "55",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "black",
+      "brown"
+    ],
+    "date": "2016-06-04",
+    "cost": 1000,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H5_1.png",
+      "images/promdress/H5_2.png",
+      "images/promdress/H5_3.png"
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "ĐẦM XÒE DẠ TIỆC PRINCESS",
+    "size": [
+
+    ],
+    "quantity": "77",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "black"
+    ],
+    "date": "2016-06-03",
+    "cost": 1200,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H6_1.jpg",
+      "images/promdress/H6_2.jpg",
+      "images/promdress/H6_3.jpg"
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "ĐẦM MULET CỔ TRÒN VẠT XÉO",
+    "size": [
+
+    ],
+    "quantity": "22",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "blue",
+      "red"
+    ],
+    "date": "2016-03-03",
+    "cost": 900,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H7_1.jpg",
+      "images/promdress/H7_2.jpg",
+      "images/promdress/H7_3.jpg"
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "ĐẦM KẺ BUBERRY CỔ SƠ MI",
+    "size": [
+
+    ],
+    "quantity": "2",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "red"
+    ],
+    "date": "2016-11-10",
+    "cost": 750,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H8_1.jpg",
+      "images/promdress/H8_2.jpg",
+      "images/promdress/H8_3.jpg"
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "ĐẦM LỤA ÁO DÀI",
+    "size": [
+
+    ],
+    "quantity": "44",
+    "info": [
+      "Đúng kiểu mẫu - Đúng màu sắc - Đúng kích thước",
+      "Vải voan cát thái 2 lớp không sợ mỏng, mặc rất mát, thoải mái",
+      "Đường may chắc, đều, đẹp.",
+      "Một thiết kế mang đậm nét dịu dàng và nữ tính.",
+      "Màu sắc và họa tiết ngọt ngào như được ẩn dưới lớp sương mờ ảo, tăng thêm nét kiêu sa cho người mặc.",
+      "Với chất liệu mềm mại, những điểm nhấn tại cổ và tay áo mang đậm chất cổ điển, lại có một chút phóng khoáng nhẹ nhàng."
+    ],
+    "detail": [
+      "Chất liệu thun lạnh mềm mại, rũ nhẹ, thoáng mát khi mặc.",
+      "Xuất xứ: Pháp",
+      "Size M : 40-45 ký",
+      "Size L : 45-55 ký",
+      "Size XL :55-65 ký",
+      "Size XXL: trên 65 ký"
+    ],
+    "color": [
+      "red",
+      "black"
+    ],
+    "date": "2016-12-12",
+    "cost": 200,
+    "type": "promdress",
+    "image": [
+      "images/promdress/H9_1.jpg",
+      "images/promdress/H9_2.jpg",
+      "images/promdress/H9_3.jpg"
+    ]
+  }
+]
