@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html ng-app="revolutionShop">
+<head>
+    <title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Login :: w3layouts</title>
+    <meta http-equiv="Content-Type" charset="utf-8">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- my style -->
+    <link href="css/mycss.css" rel="stylesheet" type="text/css" />
+    <!--theme-style-->
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!--//fonts-->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/xeditable.min.js"></script>
+    <script type="text/javascript" src="js/firebase.js"></script>
+    <script type="text/javascript" src="js/angular-route.js"></script>
+    <script type="text/javascript" src="js/angularfire.min.js"></script>
+    <script type="text/javascript" src="js/controller.js"></script>
+    <script type="text/javascript" src="js/directives.js"></script>
+    <script type="text/javascript" src="js/components.js"></script>
+    <script type="text/javascript" src="js/jquery.flexisel.js"></script>
+    <!--Add thu vien-->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="js/jquery.etalage.min.js"></script>
+    <script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
+    <script type="text/javascript" src="js/ng-infinite-scroll.min.js"></script>
+    <script type="text/javascript" src="js/dirPagination.js"></script>
+<<<<<<< HEAD
+=======
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.js"></script>
+>>>>>>> d0d763453fff719a4ec19befc91f7f9736ef5710
+</head>
+<body ng-controller="AccountController">
+<!--header-->
+<header-revolution></header-revolution>
+<!---->
+<div class="container">
+    <div class="profile_grid" ng-controller="ProfileController as profileCtrl">
+        <div id="profile-resume">
+            <div class="profile-avatar">
+                <image-picker></image-picker>
+                <img class="avatar" width="240px" height="240px" ng-src="{{ dataUser.avatar }}" />
+            </div>
+            <div class="profile-info">
+                <ul class="profile-info-content">
+                    <!-- THAY ĐỔI -->
+                    <a class="now-get get-cart-in" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-pencil size"></span></a>
+                    <!-- Modal -->
+                    <div class="modal fade" id="myModal" role="dialog">
+                        <div class="modal-dialog">
+                            <!-- MODAL -->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">THAY ĐỔI THÔNG TIN</h4>
+                                </div>
+                                <div class="modal-body">
+<<<<<<< HEAD
+                                    <table style="font-family: 'Helvetica Neue';font-size: 20px" name="cartProductForm">
+=======
+<<<<<<< HEAD
+                                    <table style="font-family: 'Helvetica Neue';font-size: 20px" name="cartProductForm">
+                                        <tr>
+                                            <td width="150px" height="70px"><span>First Name</span></td>
+                                            <td><input type="text" required ng-model="dataUser.first_name"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Last Name</span></td>
+                                            <td><input type="text" required ng-model="dataUser.last_name"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Phone</span></td>
+                                            <td><input type="text" required ng-model="dataUser.phone"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Email</span></td>
+                                            <td><input type="text" required ng-model="dataUser.email"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Address</span></td>
+                                            <td><input type="text" required ng-model="dataUser.address"/></td>
+                                        </tr>
+
+                                    </table>
+                                    <div class="modal-footer">
+                                        <button ng-click="saveUpdateInfo()" type="submit" class="btn btn-default" data-dismiss="modal">Save</button>
+                                    </div>
+=======
+                                    <form style="font-family: 'Helvetica Neue';font-size: 20px" name="cartProductForm">
+>>>>>>> origin/master
+                                        <tr>
+                                            <td width="150px" height="70px"><span>First Name</span></td>
+                                            <td><input type="text" required ng-model="dataUser.first_name"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Last Name</span></td>
+                                            <td><input type="text" required ng-model="dataUser.last_name"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Phone</span></td>
+                                            <td><input type="text" required ng-model="dataUser.phone"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Email</span></td>
+                                            <td><input type="text" required ng-model="dataUser.email"/></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="150px" height="70px"><span>Address</span></td>
+                                            <td><input type="text" required ng-model="dataUser.address"/></td>
+                                        </tr>
+<<<<<<< HEAD
+
+                                    </table>
+                                    <div class="modal-footer">
+                                        <button ng-click="saveUpdateInfo()" type="submit" class="btn btn-default" data-dismiss="modal">Save</button>
+                                    </div>
+=======
+                                        <div class="modal-footer">
+                                            <button ng-click="saveUpdateInfo()" type="submit" class="btn btn-default" data-dismiss="modal">Save</button>
+                                        </div>
+                                    </form>
+>>>>>>> d0d763453fff719a4ec19befc91f7f9736ef5710
+>>>>>>> origin/master
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <h3 class="restyle" editable-text="dataUser.first_name"><b>{{ dataUser.first_name }}</b></h3>
+                    <h3 class="restyle" editable-text="dataUser.last_name"><b>{{ dataUser.last_name }}</b></h3>
+                    <table>
+                        <tbody>
+                        <tr>
+                            <td class="alignTable">Phone</td>
+                            <td><span ><h4 style="margin-left: 50px;">{{ dataUser.phone }}</h4></span></td>
+                        </tr>
+                        <tr>
+                            <td class="alignTable" >Email</td>
+                            <td><span ><h4 style="margin-left: 50px;">{{ dataUser.email }}</h4></span></td>
+                        </tr>
+                        <tr>
+                            <td class="alignTable" >Address</td>
+                            <td><span ><h4 style="margin-left: 50px;">{{ dataUser.address }}</h4></span></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="sub-cate">
+        <categories-revolution></categories-revolution>
+        <div class=" chain-grid menu-chain">
+            <a href="single.html"><img class="img-responsive chain" src="images/wat.jpg" alt=" " /></a>
+            <div class="grid-chain-bottom chain-watch">
+                <span class="actual dolor-left-grid">300$</span>
+                <span class="reducedfrom">500$</span>
+                <h6>Lorem ipsum dolor</h6>
+            </div>
+        </div>
+        <a class="view-all all-product" href="product.html">VIEW ALL PRODUCTS<span> </span></a>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+<!---->
+<footer-revolution></footer-revolution>
+</body>
+</html>
