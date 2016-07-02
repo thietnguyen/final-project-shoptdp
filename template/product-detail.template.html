@@ -1,0 +1,119 @@
+<div class=" single_top">
+    <div class="single_grid">
+        <div class="grid images_3_of_2">
+            <ul id="etalage">
+                <li>
+                    <a href="#">
+                        <img class="etalage_thumb_image" ng-src="{{ product.image[0] }}" class="img-responsive" />
+                        <img class="etalage_source_image" ng-src="{{ product.image[0] }}" class="img-responsive" title="" />
+                    </a>
+                </li>
+                <li>
+                    <img class="etalage_thumb_image" ng-src="{{ product.image[1] }}" class="img-responsive" />
+                    <img class="etalage_source_image" ng-src="{{ product.image[1] }}" class="img-responsive" title="" />
+                </li>
+                <li>
+                    <img class="etalage_thumb_image" ng-src="{{ product.image[0] }}" class="img-responsive"  />
+                    <img class="etalage_source_image" ng-src="{{ product.image[0] }}"class="img-responsive"  />
+                </li>
+                <li>
+                    <img class="etalage_thumb_image" ng-src="{{ product.image[1] }}" class="img-responsive"  />
+                    <img class="etalage_source_image" ng-src="{{ product.image[1] }}"class="img-responsive"  />
+                </li>
+            </ul>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="desc1 span_3_of_2">
+            <h4>{{ product.name }}</h4>
+            <div class="cart-b">
+                <div class="left-n ">{{ product.cost | currency }}</div>
+                <a class="now-get get-cart-in" data-toggle="modal" data-target="#myModal">ADD TO CART</a>
+
+                <!-- Modal -->
+                <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog">
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Add to cart</h4>
+                            </div>
+                            <div class="modal-body">
+                                <form style="font-family: 'Helvetica Neue';font-size: 20px" ng-show="isLogin" style="font-family: 'Helvetica Neue';font-size: 20px">
+                                    <tr>
+                                        <div style="float: left; width: 100px; height: 30px">
+                                            <td>Sản phẩm</td>
+                                        </div>
+                                        <td style="margin-left: 25px;">{{ product.name }}</td>
+                                    </tr><div style="margin: 25px"></div>
+                                    <tr>
+                                        <div style="float: left; width: 100px; height: 30px">
+                                            <td><span>Số lượng</span></td>
+                                        </div>
+                                        <td><input type="number" id="number" value="1" style="margin-left: 20px; width: 100px" ng-model="quantity" min="1" max="1000" required/></td>
+                                    </tr><div style="margin: 25px"></div>
+                                    <tr>
+                                        <div style="float: left; width: 100px; height: 30px">
+                                            <td><span>Size</span></td>
+                                        </div>
+                                        <td height="60px">
+                                            <input type="text" id="sizeProduct" ng-model="sizeProduct" style="margin-left: 20px; width: 100px" required/>
+                                        </td>
+                                    </tr><div style="margin: 25px"></div>
+                                    <!--<tr >-->
+                                        <!--<td width="150px" height="70px"><span>Màu</span></td>-->
+                                        <!--<td><input style="width: 100px" type="color" name="favcolor" value="#ff0000"></td>-->
+                                    <!--</tr><div style="margin: 25px"></div>-->
+                                    <!--<tr>-->
+                                        <!--<td ng-show="checkProductChoose">VUI LÒNG KIỂM TRA LẠI DỮ LIỆU!</td>-->
+                                    <!--</tr><div style="margin: 15px"></div>-->
+                                    <div style="float: left; margin: 20px">
+                                        <span>Thành tiền <b>{{product.cost * quantity | currency }}</b></span>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" style="padding: 20px; background-color: #00BFF0; font-size: 20px; color: #d9edf7; border: none" class="btn btn-default" data-dismiss="modal" ng-click="saveProductChoose()">Save</button>
+                                    </div>
+                                </form>
+                                <form ng-show="!isLogin" style="font-family: 'Helvetica Neue';font-size: 20px">
+                                    <h1>Vui lòng đăng nhập để thực hiện chức năng!</h1>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="">CLOSE</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <h6>{{ product.quantity }} items in stock</h6>
+            <ul>
+                <li style="margin: 5px" ng-repeat="inf in product.info">{{ inf }}</li>
+            </ul>
+            <div class="share" style="margin-top: 30px;">
+                <h5>Share Product :</h5>
+                <ul class="share_nav">
+                    <li><a href="#"><img src="images/facebook.png" title="facebook"></a></li>
+                    <li><a href="#"><img src="images/twitter.png" title="Twiiter"></a></li>
+                    <li><a href="#"><img src="images/rss.png" title="Rss"></a></li>
+                    <li><a href="#"><img src="images/gpluse.png" title="Google+"></a></li>
+                </ul>
+            </div>
+
+
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    <ul id="flexiselDemo1">
+        <li><img src="images/pi.jpg" /><div class="grid-flex"><a href="#">Bloch</a><p>Rs 850</p></div></li>
+        <li><img src="images/pi1.jpg" /><div class="grid-flex"><a href="#">Capzio</a><p>Rs 850</p></div></li>
+        <li><img src="images/pi2.jpg" /><div class="grid-flex"><a href="#">Zumba</a><p>Rs 850</p></div></li>
+        <li><img src="images/pi3.jpg" /><div class="grid-flex"><a href="#">Bloch</a><p>Rs 850</p></div></li>
+        <li><img src="images/pi4.jpg" /><div class="grid-flex"><a href="#">Capzio</a><p>Rs 850</p></div></li>
+    </ul>
+
+    <div class="toogle">
+        <h3 class="m_3">Product Details</h3>
+        <p ng-repeat="det in product.detail" class="m_text">{{ det }}</p>
+    </div>
+</div>
