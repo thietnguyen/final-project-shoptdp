@@ -1,0 +1,111 @@
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html ng-app="revolutionShop">
+<head>
+	<title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Login :: w3layouts</title>
+	<meta http-equiv="Content-Type" charset="utf-8">
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- my style -->
+	<link href="css/mycss.css" rel="stylesheet" type="text/css" />
+	<!--theme-style-->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!--//theme-style-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!--fonts-->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+	<!--//fonts-->
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/xeditable.min.js"></script>
+	<script type="text/javascript" src="js/firebase.js"></script>
+	<script type="text/javascript" src="js/angular-route.js"></script>
+	<script type="text/javascript" src="js/angularfire.min.js"></script>
+	<script type="text/javascript" src="js/controller.js"></script>
+	<script type="text/javascript" src="js/directives.js"></script>
+	<script type="text/javascript" src="js/components.js"></script>
+	<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+	<script src="js/jquery.etalage.min.js"></script>
+	<script type="text/javascript" src="js/ng-infinite-scroll.min.js"></script>
+	<script type="text/javascript" src="js/dirPagination.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.js"></script>
+</head>
+<body ng-controller="RevolutionController">
+<!--header-->
+<header-revolution></header-revolution>
+<!---->
+<div class="container">
+	<div class="account_grid">
+		<div class=" login-right">
+			<h3>REGISTERED CUSTOMERS</h3>
+			<p>If you have an account with us, please log in.</p>
+			<form name="loginForm" ng-controller="LoginController as logCtrl" ng-submit="!$loginForm.isValid() && logCtrl.login()">
+				<div>
+					<span>Email Address<label>*</label></span>
+					<input type="text" name="emailLogin" ng-model="emailLogin" required>
+				</div>
+				<div>
+					<span>Password<label>*</label></span>
+					<input type="password" name="passwordLogin" ng-model="passwordLogin" required>
+				</div>
+				<h3 style="color: red;" ng-show="checkEmailPass">WRONG EMAIL OR PASSWORD!!</h3>
+				<a class="forgot" href="#">Forgot Your Password?</a>
+				<input type="submit" value="Login">
+				<input class="btnfacebook" style="
+						background:blue;
+						color: #FFF;
+						font-size: 1em;
+						padding: 0.5em 1.2em;
+						transition: 0.5s all;
+						-webkit-transition: 0.5s all;
+						-moz-transition: 0.5s all;
+						-o-transition: 0.5s all;
+						display: inline-block;
+						text-transform: uppercase;
+						border:none;
+						outline:none;" type="button" value="Facebook" ng-click="logfacebook()">
+				<input class="btngoogle" style="
+						background:red;
+						color: #FFF;
+						font-size: 1em;
+						padding: 0.5em 1.2em;
+						transition: 0.5s all;
+						-webkit-transition: 0.5s all;
+						-moz-transition: 0.5s all;
+						-o-transition: 0.5s all;
+						display: inline-block;
+						text-transform: uppercase;
+						border:none;
+						outline:none;" type="button" value="Google+" ng-click="loggoogle()">
+			</form>
+		</div>
+		<div class=" login-left">
+			<h3>NEW CUSTOMERS</h3>
+			<p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
+			<a class="acount-btn" href="register.html">Create an Account</a>
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+	<div class="sub-cate">
+		<categories-revolution></categories-revolution>
+		<div class=" chain-grid menu-chain">
+			<a href="single.html"><img class="img-responsive chain" src="images/wat.jpg" alt=" " /></a>
+			<div class="grid-chain-bottom chain-watch">
+				<span class="actual dolor-left-grid">300$</span>
+				<span class="reducedfrom">500$</span>
+				<h6>Lorem ipsum dolor</h6>
+			</div>
+		</div>
+		<a class="view-all all-product" href="product.html">VIEW ALL PRODUCTS<span> </span></a>
+	</div>
+	<div class="clearfix"> </div>
+</div>
+<!---->
+<footer-revolution></footer-revolution>
+</body>
+</html>
